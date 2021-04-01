@@ -1,1 +1,1 @@
-cout << "Fighting";
+cout << "hello world";
